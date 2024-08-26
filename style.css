@@ -1,0 +1,43 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#c8c098cc;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.portada{
+  height: 300%;
+}
+.titulo p{
+  font-size: 50px;
+  color: white;
+  font-family: 'Forte'
+}
+.enlace p{
+  font-size: 30px;
+  color: white;
+}
+.titulo2 p{
+  font-size: 30px;
+  color: white;
+  font-family: 'Aptos Narrow';
+}
+.subtitulo p{
+  font-size: 20px;
+  color: white;
+  font-family: 'Aptos Narrow'
+}
+.resumen p{
+  font-size: 30px;
+  color: white;
+  font-family: 'Aptos Narrow';
+  margin: 50px;
+}
+.resumen img{
+  height: 300px;
+}
